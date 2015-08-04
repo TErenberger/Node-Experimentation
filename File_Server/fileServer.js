@@ -1,3 +1,4 @@
+/// <reference path="../typings/node/node.d.ts"/>
 var http = require('http');
 var fs = require('fs');
 var port = process.argv[2];
